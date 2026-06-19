@@ -30,7 +30,7 @@ const LoginPage = () => {
                           <p className="text-center text-xs text-gray-600/95 lg:text-sm">
                               Don’t have account?
                               <Link
-                                  className="text-white transition-all hover:text-lwsGreen hover:underline"
+                                  className="text-white transition-all pl-2 hover:text-lwsGreen hover:underline"
                                   to="/register"
                               >
                                   Create New
